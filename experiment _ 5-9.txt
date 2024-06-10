@@ -1,6 +1,6 @@
 5.Student Registration UI
 
-https://www.figma.com/design/dtmXcsqy8648J4kmXVssRD/221701505-Exp-5?node-id=0-1
+https://www.figma.com/proto/TTltxfjwwycBXR9oVVjFtu/HCI-exp*5?node-id=19-20&t=ViBhTX2PnGIfHAKk-0&scaling=min-zoom&page-id=0%3A1
 
 6.Picture changing UI
 
