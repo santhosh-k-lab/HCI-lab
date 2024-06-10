@@ -1,0 +1,19 @@
+5.Student Registration UI
+
+https://www.figma.com/design/dtmXcsqy8648J4kmXVssRD/221701505-Exp-5?node-id=0-1
+
+6.Picture changing UI
+
+https://www.figma.com/design/t0MNyPwGgeyR8zbQYGNwd1/221701505-exp6?node-id=0-1
+
+7.Student end sem Registration UI
+
+https://www.figma.com/design/RPIWGfCDKpOqZkF8VZA9zt/221701505-exp7?node-id=0-1
+
+8.Drag and Drop UI
+
+https://www.figma.com/design/VZm2TjfhSmrsIRiwIdHukH/221701505-exp8?node-id=0-1
+
+9.Overlays/Inlays UI
+
+https://www.figma.com/design/DPjp9j7zMH80Jl7EiIyril/221701505-Exp-9?node-id=0-1
